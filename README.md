@@ -4,6 +4,4 @@ The Amazon clone was made using React, and CSS. It implements user authenticatio
 # To Run
 Go to project directory, Run NPM install
 
-Go to Client directory, Run NPM install
-
-Client directory, Run NPM start.
+NPM start.
