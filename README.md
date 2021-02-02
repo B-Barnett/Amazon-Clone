@@ -5,3 +5,5 @@ The Amazon clone was made using React, and CSS. It implements user authenticatio
 Go to project directory /Client, Run NPM install
 
 NPM start.
+
+Open on localhost:3000
